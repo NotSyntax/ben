@@ -1,0 +1,10 @@
+body {
+    background: black;
+    margin: 0;
+}
+
+canvas {
+    background-image: url('assets/images/idle.png');
+    display: block;
+    margin: 0 auto;
+}
